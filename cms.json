@@ -38,5 +38,8 @@
     }, {
         "name": "Laravel 5 Simple",
         "github": "ozdemirburak/laravel-5-simple-cms"
+    }, {
+        "name": "UnfoldCMS",
+        "github": "hpakdaman/unfoldcms"
     }
 ]
